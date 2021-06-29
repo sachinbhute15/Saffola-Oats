@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="20px" viewBox="0 0 11 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Peppy-Tomato" transform="translate(-104.000000, -707.000000)" fill="#DB0812">
+            <g id="others" transform="translate(104.000000, 677.000000)">
+                <path d="M0.352,38.9173333 L8.91733333,30.352 C9.416,29.8826667 10.1786667,29.8826667 10.648,30.352 C11.1173333,30.8213333 11.1173333,31.584 10.648,32.0826667 L2.93333333,39.7973333 L10.648,47.512 C11.1173333,47.9813333 11.1173333,48.7733333 10.648,49.2426667 C10.1786667,49.712 9.416,49.712 8.91733333,49.2426667 L0.352,40.648 C-0.117333333,40.1786667 -0.117333333,39.416 0.352,38.9173333 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
